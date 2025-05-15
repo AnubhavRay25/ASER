@@ -13,7 +13,7 @@ India faces significant challenges in ensuring foundational literacy and numerac
 
 ## Methodology
 
-The core of this project is a **state-wise Linear Programming (LP) optimization model** implemented in Python (`district2.py`). The script performs the following key steps:
+The core of this project is a **state-wise Linear Programming (LP) optimization model** implemented in Python (`district.py`). The script performs the following key steps:
 
 1.  **Data Aggregation & Cleaning:**
     *   Reads multiple state-specific ASER district data CSV files from a specified directory.
